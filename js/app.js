@@ -22,10 +22,7 @@ function change(){
   }
 }
 
-// I'm still working on it
-function parcentage(){
-  document.getElementById('result').value = document.getElementById('result').value;
-}
+
 
 
 

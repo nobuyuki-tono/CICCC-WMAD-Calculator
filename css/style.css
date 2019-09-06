@@ -12,6 +12,10 @@ button{
   border-radius: 5px;
 }
 
+#equal,#clear{
+  width: 130px;
+}
+
 button:hover{
   background-color: skyblue;
 }
